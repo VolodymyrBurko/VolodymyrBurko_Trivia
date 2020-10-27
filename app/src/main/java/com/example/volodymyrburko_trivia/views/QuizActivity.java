@@ -1,4 +1,8 @@
-package com.example.volodymyrburko_trivia.views;
+package com.example.volodymyrburko_trivia.views
 
-public class QuizActivity {
+class QuizActivity{
+
+
+
 }
+
