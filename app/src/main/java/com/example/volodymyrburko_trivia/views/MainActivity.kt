@@ -1,7 +1,8 @@
-package com.example.volodymyrburko_trivia
+package com.example.volodymyrburko_trivia.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.volodymyrburko_trivia.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
